@@ -11,3 +11,4 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossamkidr&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossamkidr&theme=algolia)
