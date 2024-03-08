@@ -5,11 +5,9 @@
 
 - 📫 How to reach me **hossamkidr163@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hosam mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hosam mostafa" height="30" width="40" /></a>
-</p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossamkidr&theme=green-nur&border_radius=5.3)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossamkidr&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossamkidr&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossamkidr&theme=algolia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossamkidr&theme=green-nur&border_radius=5.3)](https://git.io/streak-stats)
