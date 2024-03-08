@@ -9,4 +9,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossamkidr&theme=green-nur&border_radius=5.3)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossamkidr&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossamkidr&theme=algolia)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossamkidr&theme=green-nur&border_radius=5.3)](https://git.io/streak-stats)
+
