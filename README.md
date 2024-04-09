@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hossam mostafa</h1>
-<h3 align="center">A passionate nobil developer from egypt</h3>
+<h3 align="center">A passionate mobail developer from egypt</h3>
 
 - 🌱 I’m currently learning **flutter**
 
